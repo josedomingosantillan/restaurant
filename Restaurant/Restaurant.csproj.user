@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="ConsultarClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ConsultarComandas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ConsultarEmpleados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ConsultarInventario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ConsultarProveedores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ConsultarVentas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditarClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditarComandas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditarEmpleados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditarInventario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditarProveedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditarVenta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EliminarClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EliminarComandas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EliminarEmpleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EliminarInventario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EliminarProveedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EliminarVenta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MenuClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MenuComandas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MenuEmpleados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MenuInventario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MenuPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MenuProveedores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MenuVentas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
